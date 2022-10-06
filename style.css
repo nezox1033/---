@@ -1,0 +1,27 @@
+*{
+    font-family: ;
+}
+
+body{
+    margin-top: 15%;
+    margin-left: 30%;
+}
+.data{
+    font-weight: 600;
+    font-size: 12px;
+    margin: 30px 0 0 0;
+}
+
+hr{
+    border-bottom: 1px black;
+    
+}
+
+h1{
+    font-size: 44px;
+}
+
+p{
+    font-size: 16px;
+    margin: 0;
+}
